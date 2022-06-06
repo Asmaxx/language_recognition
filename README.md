@@ -5,12 +5,12 @@
 WEB Application used to get speech from user speaking and identify which language is spoken. The Application works for English, Spanish, Italian, German and French. 
 
 ## Authors
-Theo Tailame
-Augustin Fourcaud
+Theo Tailame /
+Augustin Fourcaud /
 Maxime Chardon
 
 ## Special Thanks
-Larbi Boubchir
+Larbi Boubchir /
 Madjid Maidi
 
 ## Documentations
