@@ -13,7 +13,7 @@ Maxime Chardon
 Larbi Boubchir /
 Madjid Maidi
 
-## Documentations
+## Documentation
 https://www.assemblyai.com/  
 https://docs.assemblyai.com/  
 https://github.com/flashlight/wav2letter  
